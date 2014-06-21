@@ -1,0 +1,89 @@
+.container {
+	height: 60px;
+	width: 100%;
+}
+
+.topnav {
+	height: 60px;
+	width: 1150;
+	margin: auto;
+}
+
+.topnav ul {
+	list-style: none;
+	position: relative;
+	float: right;
+	margin-right: 30px;
+	margin-bottom: 50px;
+}
+
+.topnav li {
+	display: inline;
+	padding-left: 20px;
+}
+
+#app_image {
+	height: 25px;
+	width: 20px;
+	margin-top: 7px;
+	vertical-align: middle;
+}
+
+#sign_in {
+	background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	outline: none;
+	color: #fff;
+	height: 30px;
+	width: 65px;
+	border-radius: 3px;
+}
+
+.content {
+	height: 225px;
+	width: 100%;
+}
+
+.content img {
+	display: block;
+	margin-left: 437px;
+	margin-right: 437px;
+	margin-top: 100px;
+}
+
+#search {
+	width: 406px;
+	margin-left: 430px;
+	margin-right: 430px;
+	margin-top: 30px;
+}
+
+.content ul {
+	margin-left: 500px;
+}
+
+.content li {
+	display: inline;
+	list-style: none;
+}
+
+.search_button1 {
+	margin-left: 592px;
+	width: 90px;
+}
+
+.search_button2 {
+	margin-left: 500px;
+	width: 111px;
+	position: relative;
+}
+
+
+/*#navbar li {
+	display: inline;
+	list-style: none;
+	position: absolute;
+	width: 50px;
+	float: right;
+}*/
